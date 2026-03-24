@@ -4,7 +4,7 @@ Mansi Gahlot – Data Analyst | HR Analytics
 📧 mansigahlot0808@gmail.com
 
 📞 +91 8810456673
-🔗 LinkedIn: (www.linkedin.com/in/mansi-gahlot)
+🔗 LinkedIn: (Add your link here)
 
 👩‍💼 About Me
 
@@ -15,6 +15,7 @@ I have worked on end-to-end analytics projects, including data cleaning, explora
 I am passionate about transforming raw data into actionable business insights, especially in recruitment and workforce analytics.
 
 🛠️ Skills
+
 Programming: Python (Pandas, NumPy)
 Data Analysis: EDA, Data Cleaning, Data Visualization
 Tools: Power BI, Excel (Advanced), Plotly
@@ -22,6 +23,7 @@ Database: SQL
 Domain Expertise: HR Analytics, Recruitment Analytics, KPI Reporting
 
 📂 Projects
+
 🔹 Zomato Restaurant Data Analysis
 Analyzed 172K+ restaurant records using Python (Pandas) and EDA
 Identified trends in ratings, pricing, cuisine, and online delivery
@@ -37,7 +39,6 @@ Online delivery availability influences restaurant performance
 Analyzed 8,800+ content records to identify trends in content growth and genres
 Performed data cleaning, feature engineering, and time-series analysis
 Improved reporting accuracy by 20%
-
 Created interactive dashboards for business insights
 
 👉 Key Insights:
@@ -67,14 +68,12 @@ Hiring Efficiency
 
 📊 Tools & Technologies
 Python | SQL | Power BI | Excel | Plotly
-
 🎓 Education
 MBA (HR & Operations) – IIMT (MDU) (2024–2026)
 BA Program – Delhi University (2021–2024)
 
 📜 Certification
 Data Analytics with Gen AI – IIT Guwahati (2025–2026)
-
 🚀 What I Bring
 Strong analytical thinking
 Business-oriented insights
@@ -82,10 +81,11 @@ Hands-on project experience
 Ability to convert data into decision-making tools
 
 📌 Let's Connect
+
 I am actively looking for opportunities in:
 
 Data Analyst
 HR Analyst
 Workforce Analyst
 
-🔗 (www.linkedin.com/in/mansi-gahlot)
+🔗 (Add your LinkedIn link here)
