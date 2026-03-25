@@ -67,7 +67,7 @@ HR Analytics | Retail Analytics | Consumer Insights
 ## 🔹 BigBasket Dashboard (Power BI)  
 
 <p align="center">
-  <img src="bigbasket_dashboard.png" width="800"/>
+  <img src="bigbasket dashboard" width="800"/>
 </p>
 
 **📌 Overview:** Product pricing, ratings & category performance analysis  
