@@ -1,91 +1,192 @@
 # mansi-portfolio
-Mansi Gahlot – Data Analyst | HR Analytics
+# 👩‍💻 Mansi Gahlot  
+### 📊 Data Analyst | SQL | Python | Power BI | HR Analytics  
 
-📧 mansigahlot0808@gmail.com
+📧 mansigahlot0808@gmail.com  
+📞 +91 8810456673  
+🔗 [LinkedIn](#) *(www.linkedin.com/in/mansi-gahlot)*  
 
-📞 +91 8810456673
-🔗 LinkedIn: (Add your link here)
+---
 
-👩‍💼 About Me
+## 🚀 Profile Snapshot  
 
-Results-driven Data Analyst and HR Analytics enthusiast with hands-on experience in SQL, Python (Pandas), Advanced Excel, and Power BI.
+✔ Data Analyst with hands-on experience in **EDA, SQL, Python, and Dashboarding**  
+✔ Analyzed **180K+ records across real-world datasets**  
+✔ Built **interactive KPI dashboards (Power BI & Excel)**  
+✔ Improved reporting efficiency by **20–25%**  
+✔ Strong focus on **Business Insights & HR Analytics**  
 
-I have worked on end-to-end analytics projects, including data cleaning, exploratory data analysis (EDA), and dashboard development. I have analyzed 8,000+ records to uncover trends and built interactive dashboards to support data-driven decision-making.
+---
 
-I am passionate about transforming raw data into actionable business insights, especially in recruitment and workforce analytics.
+## 🧠 Skills  
 
-🛠️ Skills
+**Languages & Tools:**  
+`Python (Pandas, NumPy)` | `SQL` | `Power BI` | `Excel`  
 
-Programming: Python (Pandas, NumPy)
-Data Analysis: EDA, Data Cleaning, Data Visualization
-Tools: Power BI, Excel (Advanced), Plotly
-Database: SQL
-Domain Expertise: HR Analytics, Recruitment Analytics, KPI Reporting
+**Core Skills:**  
+- Data Cleaning  
+- Exploratory Data Analysis (EDA)  
+- Data Visualization  
+- KPI Tracking  
+- Dashboard Development  
 
-📂 Projects
+**Domain Expertise:**  
+HR Analytics | Retail Analytics | Consumer Insights  
 
-🔹 Zomato Restaurant Data Analysis
-Analyzed 172K+ restaurant records using Python (Pandas) and EDA
-Identified trends in ratings, pricing, cuisine, and online delivery
-Improved insight generation by 25%
-Built interactive dashboards using Plotly
+---
 
-👉 Key Insights:
+# 📊 Featured Projects  
 
-Pricing and ratings significantly impact customer satisfaction
-Online delivery availability influences restaurant performance
+---
 
-🔹 Netflix Global Content Analysis
-Analyzed 8,800+ content records to identify trends in content growth and genres
-Performed data cleaning, feature engineering, and time-series analysis
-Improved reporting accuracy by 20%
-Created interactive dashboards for business insights
+## 🔹 Employee Attrition Dashboard (Power BI)  
 
-👉 Key Insights:
+<p align="center">
+  <img src="employee_attrition_dashboard.png" width="800"/>
+</p>
 
-Rapid growth in regional content production
-Certain genres dominate global viewership trends
-🔹 Employee Attrition Dashboard (Power BI)
-Developed a dashboard analyzing 1,400+ employee records
-Tracked KPIs like attrition rate, salary trends, job satisfaction
-Identified high-risk employee segments
-Improved HR reporting efficiency by 25%
+**📌 Problem:** High employee attrition impacting business performance  
 
-👉 Key Insights:
+**📈 KPIs:**  
+- Attrition Rate  
+- Satisfaction Score  
+- Salary Distribution  
+- Promotion Rate  
 
-Higher attrition among low-salary and early-tenure employees
-Department-wise attrition trends highlight retention gaps
+**🔍 Insights:**  
+✔ High attrition in **low salary & early tenure employees**  
+✔ Long working hours reduce satisfaction  
+✔ Department-wise attrition trends identified  
 
-💼 Internship Experience
-Sourced and screened 200+ candidates using LinkedIn and ATS tools
-Supported 10+ recruitment mandates through screening and shortlisting
-Maintained and analyzed recruitment data in Excel
-Improved reporting accuracy by 20%
-Worked on KPI tracking like:
-Time-to-Hire
-Candidate Pipeline
-Hiring Efficiency
+**💼 Business Impact:**  
+✔ Improved HR reporting efficiency by **25%**  
+✔ Enabled **data-driven retention strategies**  
 
-📊 Tools & Technologies
-Python | SQL | Power BI | Excel | Plotly
-🎓 Education
-MBA (HR & Operations) – IIMT (MDU) (2024–2026)
-BA Program – Delhi University (2021–2024)
+---
 
-📜 Certification
-Data Analytics with Gen AI – IIT Guwahati (2025–2026)
-🚀 What I Bring
-Strong analytical thinking
-Business-oriented insights
-Hands-on project experience
-Ability to convert data into decision-making tools
+## 🔹 BigBasket Dashboard (Power BI)  
 
-📌 Let's Connect
+<p align="center">
+  <img src="bigbasket_dashboard.png" width="800"/>
+</p>
 
-I am actively looking for opportunities in:
+**📌 Overview:** Product pricing, ratings & category performance analysis  
 
-Data Analyst
-HR Analyst
-Workforce Analyst
+**📈 KPIs:**  
+- Market Price  
+- Sales Price  
+- Product Ratings  
+- Brand Performance  
 
-🔗 (Add your LinkedIn link here)
+**🔍 Insights:**  
+✔ Pricing impacts customer preference  
+✔ High-rated products drive sales  
+✔ Top brands dominate categories  
+
+**💼 Impact:**  
+✔ Supports **pricing & product strategy decisions**  
+
+---
+
+## 🔹 World Population Dashboard (Power BI)  
+
+<p align="center">
+  <img src="world_population_dashboard.png" width="800"/>
+</p>
+
+**📌 Overview:** Global population trends analysis  
+
+**📈 KPIs:**  
+- Growth Rate  
+- Population Share  
+- Area Distribution  
+
+**🔍 Insights:**  
+✔ Asia holds **major population share (~70%)**  
+✔ Growth varies across continents  
+
+**💼 Impact:**  
+✔ Useful for **market expansion & planning**  
+
+---
+
+## 🔹 Retail Sales Dashboard (Excel)  
+
+<p align="center">
+  <img src="retail_dashboard.png" width="800"/>
+</p>
+
+**📌 Overview:** Category-wise sales & quarterly trends  
+
+**📈 KPIs:**  
+- Total Sales  
+- Category Performance  
+- Quarterly Trends  
+
+**🔍 Insights:**  
+✔ Electronics generate highest revenue  
+✔ Seasonal trends impact sales  
+
+**💼 Impact:**  
+✔ Supports **inventory & sales strategy**  
+
+---
+
+## 🔹 Zomato Data Analysis (Python)  
+
+- Analyzed **172K+ records**  
+- Performed EDA on ratings, pricing & delivery  
+- Improved insights by **25%**  
+
+---
+
+## 🔹 Netflix Content Analysis (Python)  
+
+- Analyzed **8,800+ records**  
+- Identified genre trends & content growth  
+- Improved reporting accuracy by **20%**  
+
+---
+
+## 💼 Internship Experience  
+
+✔ Screened **200+ candidates using ATS tools**  
+✔ Managed **10+ hiring pipelines**  
+✔ Improved reporting accuracy by **20%**  
+
+**KPIs:** Time-to-Hire | Hiring Funnel | Conversion Rate  
+
+---
+
+## 🎓 Education  
+
+🎓 MBA (HR & Operations) – IIMT (MDU) *(2024–2026)*  
+🎓 BA – Delhi University *(2021–2024)*  
+
+---
+
+## 📜 Certification  
+
+📌 Data Analytics with Gen AI – IIT Guwahati  
+
+---
+
+## 🎯 What Makes Me Stand Out  
+
+✔ Strong **business + analytics mindset**  
+✔ Hands-on with **real-world dashboards**  
+✔ Focus on **impact & decision-making**  
+✔ Ability to simplify complex data  
+
+---
+
+## 📢 Open to Opportunities  
+
+**Data Analyst | Business Analyst | HR Analyst | Workforce Analyst**  
+
+---
+
+## ⭐ Support  
+
+If you like this portfolio, feel free to ⭐ the repo!
+
