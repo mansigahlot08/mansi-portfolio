@@ -134,8 +134,78 @@ Excel | Dashboarding
 - Improved business tracking visibility
 <img width="1318" height="445" alt="image" src="https://github.com/user-attachments/assets/132c75eb-0292-4046-b478-b49ce2a5507d" />
 
+---
+---
+
+### 🛍️ Black Friday Sales Analysis Dashboard
+
+**🔍 Business Problem:**  
+Identify customer purchasing behavior and high-revenue segments during peak sale events
+
+**🛠 Tools:**  
+Excel | Data Cleaning | Pivot Tables | Dashboarding
+
+**📈 KPIs:**
+- Revenue by Age Group & Gender
+- Product Category Performance
+- Purchase Trends by Occupation
+
+**💡 Insights:**
+- Identified top-spending age group contributing **50%+ of total revenue**  
+- Found male customers driving higher purchase volume in key categories  
+- Highlighted high-performing product segments for targeted marketing  
+- Improved sales decision-making using structured KPI tracking  
+---
+
+### 🌍 World Happiness Dashboard
+
+**🔍 Business Problem:**  
+Understand factors influencing happiness scores across countries
+
+**🛠 Tools:**  
+Excel | Data Visualization | KPI Analysis
+
+**📈 KPIs:**
+- Happiness Score by Country  
+- GDP vs Happiness Correlation  
+- Life Expectancy Impact  
+- Freedom & Social Support Index  
+
+**💡 Insights:**
+- Strong correlation between **GDP & happiness score (~70% influence)**  
+- Countries with higher social support showed significantly better rankings  
+- Identified key drivers: economy, health, and freedom  
+- Provided insights for policy-level decision-making  
+
+📸 [View Dashboard](https://www.linkedin.com/in/mansi-gahlot)
+
+🔗 [View Project](#)
 
 ---
+
+### 🌎 World Population Analysis Dashboard
+
+**🔍 Business Problem:**  
+Analyze population growth trends and regional distribution
+
+**🛠 Tools:**  
+Excel | Data Analysis | Visualization
+
+**📈 KPIs:**
+- Population by Country & Region  
+- Growth Rate Trends  
+- Density Analysis  
+- Top Populated Countries  
+
+**💡 Insights:**
+- Identified top 5 countries contributing **40%+ of global population**  
+- Highlighted rapid growth regions impacting resource demand  
+- Showed uneven population density distribution across continents  
+- Supported strategic planning & economic forecasting insights  
+
+📸 [View Dashboard](https://www.linkedin.com/in/mansi-gahlot)
+
+🔗 [View Project](#)
 
 ### 🐍 Zomato Data Analysis (Python)
 
@@ -158,6 +228,29 @@ Python | Pandas | Plotly
 🔗 [Zomato Analysis.pdf](#)
 
 ---
+### 🎬 Netflix Global Content Analysis (Python)
+
+**🔍 Business Problem:**  
+Understanding content growth, genre trends, and regional expansion strategy
+
+**🛠 Tools:**  
+Python (Pandas, NumPy) | Plotly | EDA
+
+**📈 KPIs:**
+- Content Growth Over Years
+- Genre Distribution
+- Country-wise Content Production
+- Movie vs TV Show Ratio
+
+**💡 Insights:**
+- Analyzed **8,800+ content records** to identify global content trends  
+- Found significant growth spike post-2016, indicating platform expansion  
+- Identified top-performing genres contributing to **high user engagement**  
+- Improved reporting accuracy by **20% through structured EDA & data cleaning**  
+
+![Dashboard Preview](assets/images/netflix.png)
+
+🔗 [View Project](#)
 
 ## 💼 Why Hire Me?
 
@@ -172,7 +265,7 @@ Python | Pandas | Plotly
 ## 📬 Contact Me
 
 📧 Email: mansigahlot886@gmail.com  
-🔗 LinkedIn: https://linkedin.com/in/yourprofile  
+🔗 LinkedIn: https://linkedin.com/in/mansi_gahlot  
 💻 GitHub: https://github.com/yourusername  
 
 ---
