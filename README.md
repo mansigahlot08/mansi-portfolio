@@ -1,192 +1,185 @@
-# mansi-portfolio
-# 👩‍💻 Mansi Gahlot  
-### 📊 Data Analyst | SQL | Python | Power BI | HR Analytics  
-
-📧 mansigahlot0808@gmail.com  
-📞 +91 8810456673  
-🔗 [LinkedIn](#) *(www.linkedin.com/in/mansi-gahlot)*  
-
----
-
-## 🚀 Profile Snapshot  
-
-✔ Data Analyst with hands-on experience in **EDA, SQL, Python, and Dashboarding**  
-✔ Analyzed **180K+ records across real-world datasets**  
-✔ Built **interactive KPI dashboards (Power BI & Excel)**  
-✔ Improved reporting efficiency by **20–25%**  
-✔ Strong focus on **Business Insights & HR Analytics**  
-
----
-
-## 🧠 Skills  
-
-**Languages & Tools:**  
-`Python (Pandas, NumPy)` | `SQL` | `Power BI` | `Excel`  
-
-**Core Skills:**  
-- Data Cleaning  
-- Exploratory Data Analysis (EDA)  
-- Data Visualization  
-- KPI Tracking  
-- Dashboard Development  
-
-**Domain Expertise:**  
-HR Analytics | Retail Analytics | Consumer Insights  
-
----
-
-# 📊 Featured Projects  
-
----
-
-## 🔹 Employee Attrition Dashboard (Power BI)  
+<h1 align="center">Hi 👋, I'm Mansi Gahlot</h1>
+<h3 align="center">📊 Data Analyst | HR Analytics | Turning Data into Business Decisions</h3>
 
 <p align="center">
-  <img src="employee_attrition_dashboard.png" width="800"/>
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=social" />
 </p>
 
-**📌 Problem:** High employee attrition impacting business performance  
+---
 
-**📈 KPIs:**  
-- Attrition Rate  
-- Satisfaction Score  
-- Salary Distribution  
-- Promotion Rate  
+## 🚀 About Me
 
-**🔍 Insights:**  
-✔ High attrition in **low salary & early tenure employees**  
-✔ Long working hours reduce satisfaction  
-✔ Department-wise attrition trends identified  
-
-**💼 Business Impact:**  
-✔ Improved HR reporting efficiency by **25%**  
-✔ Enabled **data-driven retention strategies**  
+💡 Data Analyst with hands-on experience in **SQL, Python, Excel & Power BI**  
+📊 Worked on datasets with **170K+ records** to extract business insights  
+📉 Improved reporting efficiency by **25% through dashboards & automation**  
+👩‍💼 Specialized in **HR Analytics & Business Insights**  
+🌍 Open to relocation | Actively seeking opportunities  
 
 ---
 
-## 🔹 BigBasket Dashboard (Power BI)  
+## 🧠 Skills
 
-<p align="center">
-  <img src="bigbasket dashboard" width="800"/>
-</p>
+### 📊 Data Analysis
+- Excel (Pivot Tables, Dashboards, KPIs)
+- SQL (Joins, CTEs, Window Functions)
+- Power BI (DAX, Data Modeling)
 
-**📌 Overview:** Product pricing, ratings & category performance analysis  
+### 📈 Visualization
+- Power BI Dashboards
+- Excel Charts & KPI Design
+- Plotly (Python)
 
-**📈 KPIs:**  
-- Market Price  
-- Sales Price  
-- Product Ratings  
-- Brand Performance  
+### 💻 Programming
+- Python (Pandas, NumPy)
+- Data Cleaning & EDA
 
-**🔍 Insights:**  
-✔ Pricing impacts customer preference  
-✔ High-rated products drive sales  
-✔ Top brands dominate categories  
-
-**💼 Impact:**  
-✔ Supports **pricing & product strategy decisions**  
-
----
-
-## 🔹 World Population Dashboard (Power BI)  
-
-<p align="center">
-  <img src="world_population_dashboard.png" width="800"/>
-</p>
-
-**📌 Overview:** Global population trends analysis  
-
-**📈 KPIs:**  
-- Growth Rate  
-- Population Share  
-- Area Distribution  
-
-**🔍 Insights:**  
-✔ Asia holds **major population share (~70%)**  
-✔ Growth varies across continents  
-
-**💼 Impact:**  
-✔ Useful for **market expansion & planning**  
+### 🧩 Business Skills
+- HR Analytics
+- KPI Tracking
+- Decision-Making Insights
 
 ---
 
-## 🔹 Retail Sales Dashboard (Excel)  
-
-<p align="center">
-  <img src="retail_dashboard.png" width="800"/>
-</p>
-
-**📌 Overview:** Category-wise sales & quarterly trends  
-
-**📈 KPIs:**  
-- Total Sales  
-- Category Performance  
-- Quarterly Trends  
-
-**🔍 Insights:**  
-✔ Electronics generate highest revenue  
-✔ Seasonal trends impact sales  
-
-**💼 Impact:**  
-✔ Supports **inventory & sales strategy**  
+## 📌 Featured Projects
 
 ---
 
-## 🔹 Zomato Data Analysis (Python)  
+### 📊 Employee Attrition Dashboard (Power BI)
 
-- Analyzed **172K+ records**  
-- Performed EDA on ratings, pricing & delivery  
-- Improved insights by **25%**  
+**🔍 Business Problem:**  
+High employee attrition impacting workforce planning
 
----
+**🛠 Tools:**  
+Power BI | Excel | Data Cleaning
 
-## 🔹 Netflix Content Analysis (Python)  
+**📈 KPIs:**
+- Attrition Rate by Department
+- Salary vs Attrition
+- Job Satisfaction Score
 
-- Analyzed **8,800+ records**  
-- Identified genre trends & content growth  
-- Improved reporting accuracy by **20%**  
+**💡 Insights:**
+- Identified high-risk departments contributing to **60%+ attrition**
+- Improved HR reporting efficiency by **25%**
+- Highlighted salary & workload imbalance trends
 
----
+![Dashboard Preview](assets/images/employee_attrition.png)
 
-## 💼 Internship Experience  
-
-✔ Screened **200+ candidates using ATS tools**  
-✔ Managed **10+ hiring pipelines**  
-✔ Improved reporting accuracy by **20%**  
-
-**KPIs:** Time-to-Hire | Hiring Funnel | Conversion Rate  
+🔗 [View Project](#)
 
 ---
 
-## 🎓 Education  
+### 🛒 BigBasket Product Analysis Dashboard (Excel)
 
-🎓 MBA (HR & Operations) – IIMT (MDU) *(2024–2026)*  
-🎓 BA – Delhi University *(2021–2024)*  
+**🔍 Business Problem:**  
+Understanding product pricing & category performance
 
----
+**🛠 Tools:**  
+Excel | Pivot Tables | Charts
 
-## 📜 Certification  
+**📈 KPIs:**
+- Market Price by Category
+- Product Ratings
+- Top Performing Products
 
-📌 Data Analytics with Gen AI – IIT Guwahati  
+**💡 Insights:**
+- Found **Top 3 products contributing 66% revenue**
+- Identified pricing gaps across categories
+- Improved category-level decision-making
 
----
+![Dashboard Preview](assets/images/bigbasket.png)
 
-## 🎯 What Makes Me Stand Out  
-
-✔ Strong **business + analytics mindset**  
-✔ Hands-on with **real-world dashboards**  
-✔ Focus on **impact & decision-making**  
-✔ Ability to simplify complex data  
-
----
-
-## 📢 Open to Opportunities  
-
-**Data Analyst | Business Analyst | HR Analyst | Workforce Analyst**  
+🔗 [View Project](#)
 
 ---
 
-## ⭐ Support  
+### 🏠 House Pricing Analysis Dashboard
 
-If you like this portfolio, feel free to ⭐ the repo!
+**🔍 Business Problem:**  
+Analyze pricing trends across locations
+
+**🛠 Tools:**  
+Excel | Data Visualization
+
+**📈 KPIs:**
+- Price by Location
+- Furnishing Impact
+- Transaction Type Analysis
+
+**💡 Insights:**
+- Premium areas contribute **45% of total pricing value**
+- Furnished homes priced **2X higher**
+- Identified high-demand regions
+
+![Dashboard Preview](assets/images/house_pricing.png)
+
+🔗 [View Project](#)
+
+---
+
+### 🛍️ Retail Sales Dashboard
+
+**🔍 Business Problem:**  
+Track sales performance across categories & time
+
+**🛠 Tools:**  
+Excel | Dashboarding
+
+**📈 KPIs:**
+- Category-wise Sales
+- Quarterly Growth
+- Revenue Trends
+
+**💡 Insights:**
+- Electronics contributed highest revenue
+- Identified seasonal sales spikes
+- Improved business tracking visibility
+
+![Dashboard Preview](assets/images/retail.png)
+
+🔗 [View Project](#)
+
+---
+
+### 🐍 Zomato Data Analysis (Python)
+
+**🔍 Business Problem:**  
+Understand customer preferences & pricing trends
+
+**🛠 Tools:**  
+Python | Pandas | Plotly
+
+**📈 KPIs:**
+- Ratings Distribution
+- Price vs Rating
+- Cuisine Popularity
+
+**💡 Insights:**
+- Analyzed **172K+ records**
+- Improved insight generation by **25%**
+- Identified key drivers of customer satisfaction
+
+🔗 [Zomato Analysis.pdf](#)
+
+---
+
+## 💼 Why Hire Me?
+
+✔ Strong combination of **technical + business thinking**  
+✔ Proven ability to handle **large datasets (170K+)**  
+✔ Built dashboards improving efficiency by **20–25%**  
+✔ Background in **HR + Data = rare & valuable skillset**  
+✔ Fast learner with real project experience  
+
+---
+
+## 📬 Contact Me
+
+📧 Email: mansigahlot886@gmail.com  
+🔗 LinkedIn: https://linkedin.com/in/yourprofile  
+💻 GitHub: https://github.com/yourusername  
+
+---
+
+⭐ *If you like my work, feel free to connect or collaborate!*
 
