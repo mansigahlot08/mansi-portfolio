@@ -109,9 +109,6 @@ Excel | Data Visualization
 - Identified high-demand regions
 <img width="806" height="453" alt="image" src="https://github.com/user-attachments/assets/fc3cb559-c8a7-47a8-bd0a-2b73a00cbea7" />
 
-![Dashboard Preview](assets/images/house_pricing.png)
-
-🔗 [View Project](#)
 
 ---
 
@@ -203,9 +200,8 @@ Excel | Data Analysis | Visualization
 - Showed uneven population density distribution across continents  
 - Supported strategic planning & economic forecasting insights  
 
-📸 [View Dashboard](https://www.linkedin.com/in/mansi-gahlot)
+<img width="1134" height="498" alt="image" src="https://github.com/user-attachments/assets/42ce6913-1aac-4f34-9624-9aa11972b665" />
 
-🔗 [View Project](#)
 
 ### 🐍 Zomato Data Analysis (Python)
 
@@ -250,7 +246,7 @@ Python (Pandas, NumPy) | Plotly | EDA
 
 ![Dashboard Preview](assets/images/netflix.png)
 
-🔗 [View Project](#)
+🔗 [Netflix Project.pdf](#)
 
 ## 💼 Why Hire Me?
 
