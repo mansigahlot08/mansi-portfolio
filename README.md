@@ -110,6 +110,7 @@ Excel | Data Visualization
 - Premium areas contribute **45% of total pricing value**
 - Furnished homes priced **2X higher**
 - Identified high-demand regions
+<img width="806" height="453" alt="image" src="https://github.com/user-attachments/assets/fc3cb559-c8a7-47a8-bd0a-2b73a00cbea7" />
 
 ![Dashboard Preview](assets/images/house_pricing.png)
 
