@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mansi Gahlot</h1>
 <h3 align="center">📊 Data Analyst | HR Analytics | Turning Data into Business Decisions</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=social" />
-</p>
-
 ---
 
 ## 🚀 About Me
