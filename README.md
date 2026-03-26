@@ -178,9 +178,8 @@ Excel | Data Visualization | KPI Analysis
 - Identified key drivers: economy, health, and freedom  
 - Provided insights for policy-level decision-making  
 
-📸 [View Dashboard](https://www.linkedin.com/in/mansi-gahlot)
+<img width="803" height="382" alt="image" src="https://github.com/user-attachments/assets/372bdd0c-5db3-4a7f-9a83-799aa29d364a" />
 
-🔗 [View Project](#)
 
 ---
 
