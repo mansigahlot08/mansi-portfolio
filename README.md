@@ -83,12 +83,8 @@ Excel | Pivot Tables | Charts
 - Found **Top 3 products contributing 66% revenue**
 - Identified pricing gaps across categories
 - Improved category-level decision-making
+<img width="1068" height="499" alt="image" src="https://github.com/user-attachments/assets/f44df221-0749-4b23-a391-8efb1928dc95" />
 
-![Dashboard Preview](assets/images/bigbasket.png)
-
-🔗 [View Project](#)
-
----
 
 ### 🏠 House Pricing Analysis Dashboard
 
@@ -262,7 +258,7 @@ Python (Pandas, NumPy) | Plotly | EDA
 
 📧 Email: mansigahlot886@gmail.com  
 🔗 LinkedIn: https://linkedin.com/in/mansi_gahlot  
-💻 GitHub: https://github.com/yourusername  
+💻 GitHub: https://github.com/mansi-portfolio  
 
 ---
 
