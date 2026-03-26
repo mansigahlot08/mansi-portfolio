@@ -62,10 +62,7 @@ Power BI | Excel | Data Cleaning
 - Identified high-risk departments contributing to **60%+ attrition**
 - Improved HR reporting efficiency by **25%**
 - Highlighted salary & workload imbalance trends
-
-![Dashboard Preview](assets/images/employee_attrition.png)
-
-🔗 [View Project](#)
+<img width="884" height="496" alt="image" src="https://github.com/user-attachments/assets/799fba46-bf10-4ce0-b728-f14a8e260455" />
 
 ---
 
