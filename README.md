@@ -156,6 +156,7 @@ Excel | Data Cleaning | Pivot Tables | Dashboarding
 - Highlighted high-performing product segments for targeted marketing  
 - Improved sales decision-making using structured KPI tracking  
 ---
+<img width="800" height="458" alt="image" src="https://github.com/user-attachments/assets/6528a249-e17c-437d-a86b-90f6eec4c88d" />
 
 ### 🌍 World Happiness Dashboard
 
