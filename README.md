@@ -132,10 +132,8 @@ Excel | Dashboarding
 - Electronics contributed highest revenue
 - Identified seasonal sales spikes
 - Improved business tracking visibility
+<img width="1318" height="445" alt="image" src="https://github.com/user-attachments/assets/132c75eb-0292-4046-b478-b49ce2a5507d" />
 
-![Dashboard Preview](assets/images/retail.png)
-
-🔗 [View Project](#)
 
 ---
 
